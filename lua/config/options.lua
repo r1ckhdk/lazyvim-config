@@ -12,3 +12,6 @@ vim.wo.linebreak = true
 
 -- Faz com que a quebra de linha se alinhe com a indentação
 vim.wo.breakindent = true
+
+-- use system clipboard
+vim.opt.clipboard = "unnamedplus"

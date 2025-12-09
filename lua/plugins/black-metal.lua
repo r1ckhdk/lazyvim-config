@@ -6,7 +6,7 @@ return {
     config = function()
       require("black-metal").setup({
         -- optional configuration here
-        theme = "impaled-nazarene",
+        theme = "venom",
       })
       require("black-metal").load()
     end,

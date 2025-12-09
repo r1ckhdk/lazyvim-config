@@ -15,3 +15,5 @@ vim.wo.breakindent = true
 
 -- use system clipboard
 vim.opt.clipboard = "unnamedplus"
+
+vim.g.autoformat = false

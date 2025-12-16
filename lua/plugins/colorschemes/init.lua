@@ -1,4 +1,5 @@
 return {
+  { import = "plugins.colorschemes"},
   {
     "LazyVim/LazyVim",
     opts = {
